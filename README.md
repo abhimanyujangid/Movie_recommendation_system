@@ -1,17 +1,22 @@
+Movie Recommender System Readme
+Overview
+This Movie Recommender System utilizes content-based filtering to recommend movies to users based on their past interactions and preferences. Unlike collaborative filtering which relies on the preferences of other users, content-based filtering focuses on the attributes or features of the items themselves.
+
+How it Works
+The system analyzes the attributes of movies that a user has liked or interacted with in the past. These attributes can include genre, actors, directors, release year, and more. Based on this information, the system recommends other movies with similar attributes.
+
 
 
 ## Contributing
 
 Contributions are welcome! Please feel free to open a pull request or issue.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
 - This project was inspired by [XYZ Movie Recommender](https://github.com/xyz/movie-recommender).
-- Special thanks to [ABC Dataset](https://example.com/abc-dataset) for providing the movie data used in this project.
+- Special thanks to Kaggle dataset ([https://example.com/abc-dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download)) for providing the movie data used in this project.
 ```
 
 Make sure to replace `username` with your GitHub username, and customize other placeholders such as project name, dataset sources, and acknowledgements according to your project details.
