@@ -22,4 +22,4 @@ Contributions are welcome! Please feel free to open a pull request or issue.
 ## Acknowledgements
 
 - This project was inspired by [XYZ Movie Recommender](https://github.com/xyz/movie-recommender).
-- Special thanks to Kaggle dataset ([https://example.com/abc-dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download)) for providing the movie data used in this project.
+- Special thanks to Kaggle dataset [https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download] for providing the movie data used in this project.
