@@ -1,4 +1,4 @@
-### Movie Recommender System Readme
+## Movie Recommender System Readme
 ## Overview
 This Movie Recommender System utilizes content-based filtering to recommend movies to users based on their past interactions and preferences. Unlike collaborative filtering which relies on the preferences of other users, content-based filtering focuses on the attributes or features of the items themselves.
 
@@ -10,7 +10,8 @@ The system analyzes the attributes of movies that a user has liked or interacted
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Movie_recommender_system.git
+git clone https://github.com/abhimanyujangid/Movie_recommender_system.git
+```
 
 ## Contributing
 
@@ -22,6 +23,3 @@ Contributions are welcome! Please feel free to open a pull request or issue.
 
 - This project was inspired by [XYZ Movie Recommender](https://github.com/xyz/movie-recommender).
 - Special thanks to Kaggle dataset ([https://example.com/abc-dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download)) for providing the movie data used in this project.
-```
-
-Make sure to replace `username` with your GitHub username, and customize other placeholders such as project name, dataset sources, and acknowledgements according to your project details.
