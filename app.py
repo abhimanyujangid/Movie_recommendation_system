@@ -27,5 +27,6 @@ select_movie_name = st.selectbox('How would you like to be contacted?',(movies['
 if st.button('Recommend'):
     recommendation = recommend(select_movie_name)
     for i in recommendation:
+
         st.write(i)
 
