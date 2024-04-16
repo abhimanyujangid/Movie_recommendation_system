@@ -1,4 +1,4 @@
-## Movie Recommender System Readme
+## Movie RecommendationSystem Readme
 ## Overview
 This Movie Recommender System utilizes content-based filtering to recommend movies to users based on their past interactions and preferences. Unlike collaborative filtering which relies on the preferences of other users, content-based filtering focuses on the attributes or features of the items themselves.
 
